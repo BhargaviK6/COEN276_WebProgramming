@@ -1,0 +1,127 @@
+
+
+#header {
+    background-color:#a7b8aa;
+
+    text-align:center;
+    padding:2%;	
+width:96%;
+	height:6%;
+	font-family:"Georgia";
+font-size:1.875em;
+text-align:right;
+	
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:4%;
+    width:99%;
+    float:left;
+    padding:0.5%;
+
+	
+	
+}
+body
+{
+/*background-color:red;*/
+background-image:url("Images/IMG_0405 (1).JPG") ;
+background-attachment:fixed;
+margin:0%;
+
+}
+
+#section {
+    width:20%;
+    float:left;
+    padding:5%;
+height:80%;	
+/*background-color:white;*/
+overflow:auto;
+max-width:600px;
+    background-color:red;
+
+}
+#aside{
+width:30%;  
+padding:5%;
+height:30%;	
+max-width:600px;
+overflow:auto;
+/*margin-top:5%
+margin-left:10%;
+margin-right:10%;
+margin-bottom:20%;*/
+    background-color:blue;
+}
+
+ul
+
+{
+font-weight:bold;
+list-style-type:none;
+font-family:"Georgia";
+margin:0;
+padding:0;
+overflow:hidden;
+
+
+top:0;
+width:100%;
+	}
+li
+{
+font-weight:bold;
+font-family:"Georgia";
+text-decoration:none;
+float:left;
+text-align:center;
+line-height:1.8;
+}
+li a
+{
+
+font-family:"Georgia";
+font-weight:bold;
+text-decoration:none;
+/*color:rgb(53, 122, 187);*/
+/*color:#a7b8aa;*/
+color:#006666;
+padding: 14px 16px;
+display:inline-block;
+text-align:center;
+}
+li a:hover
+{
+background-color:#a7b8aa;
+}
+li a.active {
+    background-color: #a7b8aa;
+    color: white;
+}
+
+
+
+p{
+font-family:"Georgia";
+color:black;
+padding: 14px 16px;
+overflow:hidden;
+text-align:justify;
+line-height:1.8;
+}
+#footer
+{
+ background-color:#a7b8aa;
+
+    text-align:center;
+    padding:2%;	
+width:96%;
+	height:6%;
+	font-family:"Georgia";
+font-size:0.18em;
+text-align:right;
+    margin-bottom: 0%;
+	   
+}

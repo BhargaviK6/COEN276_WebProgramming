@@ -1,0 +1,124 @@
+body{
+    margin:0;
+   background-image:url("blurry-background.jpg") ;
+background-attachment:fixed;
+}
+#title{
+   
+    font-family:"Georgia";
+    font-size:1em;
+
+    width:99%;
+        height:5%;
+    padding:0.5%;
+    background-color:yellow;}
+#score{
+    font-family:"Georgia";
+     height:10%
+    padding:0.5%;
+    background-color:blue;}
+
+
+#content{
+       font-family:"Georgia";
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0;
+    margin-left:25%;
+    margin-right:30%;
+    margin-bottom: 50%;
+    margin-top:50%;
+    width:50%;
+    border-radius:10px;
+     /*border-radius:15px 50px ;*/
+    overflow:scroll;
+
+    height:67%;
+    padding:5%;
+    background-color:green;
+}
+.submit{
+    font-family:"Georgia";
+    width:20%;
+    height:5%;
+}
+
+h1{
+       font-family:"Georgia";
+   margin: 0px ;
+    line-height: 40px;
+     color: black;
+    text-align: center;
+    text-shadow: 0 1px grey;
+
+    border-bottom: 1px solid #cfcfcf;
+    border-radius: 3px 3px 0 0;
+  }
+h2{
+             font-family:"Georgia";
+   margin: 0px ;
+    line-height: 40px;
+     color: black;
+    text-align: center;
+    text-shadow: 0 1px grey;
+
+    border-bottom: 1px solid #cfcfcf;
+    border-radius: 3px 3px 0 0;
+}
+
+}
+
+ul
+
+{
+ width:50%; 
+font-weight:bold;
+list-style-type:none;
+font-family:"Georgia";
+margin-left:25%;
+margin-right:30%;
+padding:0;
+overflow:hidden;
+ 
+
+	}
+li
+{
+ list-style-type:none;
+font-weight:bold;
+font-family:"Georgia";
+text-decoration:none;
+float:left;
+text-align:center;
+line-height:1.8;
+    margin-left:5%;
+margin-right:5%;
+}
+
+li a
+{
+
+
+font-family:"Georgia";
+font-weight:bold;
+text-decoration:none;
+/*color:rgb(53, 122, 187);*/
+/*color:#a7b8aa;*/
+color:#006666;
+padding: 14px 16px;
+display:inline-block;
+text-align:center;
+}
+
+#footer{
+    margin-top:96%;
+    margin-bottom:0%;
+    overflow:auto;
+    text-align:center;
+     height:5%;
+        width:99%;
+    padding:0.5%;
+    background-color:purple;
+}
+p{
+    
+       font-family:"Georgia";
+}

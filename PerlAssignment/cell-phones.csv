@@ -1,0 +1,52 @@
+#cell-phones.csv
+#Mani Bhargavi Ketha W1186016
+#COEN 276 Web Programming 
+#Assignment 3:Perl
+#
+#
+#
+#
+#Name of school, Type of phone, Number of users
+#
+#
+#
+UC Berkeley, ios, 998
+UC Berkeley, windows, 34
+UC Berkley, android,45
+SCU ,ios, 679
+SCU ,windows, 23
+SCU ,android, 46
+UC Davis,ios,57
+UC Davis,windows,523
+UC Davis,android,23
+SJSU,ios,234
+SJSU,windows,165
+SJSU,android,1
+UCLA,ios,111
+UCLA ,windows,847
+UCLA ,android,99
+SFU,ios,88
+SFU,windows,112
+SFU,android,134
+Calpoly,ios,2
+Calpoly,windows,2
+Calpoly,android,122
+Stanford,ios,511
+Stanford,windows,147
+Stanford,android,99
+GeorgiaTech,ios,8
+GeorgiaTech,windows,112
+GeorgiaTech,android,534
+USC,ios,234
+USC,windows,165
+USC,android,122
+UC San Diego,ios,211
+UC San Diego,windows,147
+UC San Diego,android,99
+Stanford,ios,88
+Stanford,windows,1
+Stanford,android,134
+#
+#
+#
+#
